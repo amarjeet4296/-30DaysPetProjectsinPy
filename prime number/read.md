@@ -9,3 +9,5 @@ There is a confusion:
 ‘Whether one is prime or not?’
 
 One can also be written as 1=1×1×1×…×1, which contradicts the fundamental theorem of arithmetic, so it is not prime.
+
+With the invention of computers, a super computing power, in the technological era of today, prime numbers, their study and applications are greatly in demand because of so many peculiar properties they possess.
