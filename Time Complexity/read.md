@@ -43,3 +43,12 @@ max = list[0] <br />
  if max < list[i]: max = list[i]<br />
  return max<br />
 
+Exact counting:<br />
+Count the number of comparisons:<br />
+- Assume len(list) = n<br />
+- The max < list[i] comparison is made n times.<br />
+- Each time i is incremented, a test is made to see if i < len(list).<br />
+- One last comparison determines that i ≥ len(list).<br />
+- Exactly 2n + 1 comparisons are made.<br />
+- Consider the dominant term (as well as ignoring the coefficient)<br />
+- Hence, the time complexity of the max algorithm is O(n).<br />
