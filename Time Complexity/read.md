@@ -17,20 +17,20 @@ Theoretical analysis of algorithms generally includes estimation of their comple
 
 
 When n is arbitrarily big, growth of functions highly depends on the dominant term in the function:
-- n+5
+- n+5 - O(n)
 
-- n+1000000
+- n+1000000 - O(n)
+ 
+- n^2+n+5 - O(n^2)
 
-- n^2+n+5
+- n^2+1000000n+5 - - O(n^2)
 
-- n^2+1000000n+5
+- 2n^2 + n3 - - O(n^3)
 
-- 2n^2 + n3
+- n + log n + n log n - - O(nlogn)
 
-- n + log n + n log n
+- n + (log n)5 + n log n - - O(nlogn)
 
-- n + (log n)5 + n log n
+- 2^n + n^2 - O(2^n)
 
-- 2^n + n^2
-
-- 2^n + n^200
+- 2^n + n^200 - O(2^n)
