@@ -34,3 +34,12 @@ When n is arbitrarily big, growth of functions highly depends on the dominant te
 - 2^n + n^2 - O(2^n)
 
 - 2^n + n^200 - O(2^n)
+
+## Example
+
+def max(list):
+ max = list[0]
+ for i in range(len(list)):
+  if max < list[i]: max = list[i]
+ return max
+
