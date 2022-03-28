@@ -15,6 +15,8 @@ Asymptotic complexity is a way of expressing the main component of the cost of a
 
 Theoretical analysis of algorithms generally includes estimation of their complexity in the asymptotic notation[1],which deals with the large input. O(big O),theta and omega notations are used. For instance, binary search takes O(log(n)), the logarithmic time. Asymptotic estimates are used because different algorithms which are intended to perform the same functionality may differ in terms of their complexity.
 
+![alt text](https://i.stack.imgur.com/ZEmZ6.png)
+
 
 When n is arbitrarily big, growth of functions highly depends on the dominant term in the function:
 - n+5 - O(n)
