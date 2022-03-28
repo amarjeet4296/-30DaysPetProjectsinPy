@@ -12,3 +12,5 @@ The analysis of algorithms is the estimation of the amount of resources as time 
 The running time of an algorithm is defines as a function with the time complexity and the Space complexity. These estimates provide the directions of search for efficient algorithms. 
 
 Asymptotic complexity is a way of expressing the main component of the cost of an algorithm
+
+Theoretical analysis of algorithms generally includes estimation of their complexity in the asymptotic notation[1],which deals with the large input. O(big O),theta and omega notations are used. For instance, binary search takes O(log(n)), the logarithmic time. Asymptotic estimates are used because different algorithms which are intended to perform the same functionality may differ in terms of their complexity.
