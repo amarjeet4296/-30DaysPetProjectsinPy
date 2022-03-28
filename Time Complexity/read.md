@@ -10,3 +10,5 @@ Performance Analysis of Algorithm is an important part of a computational theory
 The analysis of algorithms is the estimation of the amount of resources as time taken to execute an algorithm and the memory storage required by an algorithm.
 
 The running time of an algorithm is defines as a function with the time complexity and the Space complexity. These estimates provide the directions of search for efficient algorithms. 
+
+Asymptotic complexity is a way of expressing the main component of the cost of an algorithm
