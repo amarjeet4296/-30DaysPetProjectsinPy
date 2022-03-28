@@ -14,3 +14,15 @@ The running time of an algorithm is defines as a function with the time complexi
 Asymptotic complexity is a way of expressing the main component of the cost of an algorithm
 
 Theoretical analysis of algorithms generally includes estimation of their complexity in the asymptotic notation[1],which deals with the large input. O(big O),theta and omega notations are used. For instance, binary search takes O(log(n)), the logarithmic time. Asymptotic estimates are used because different algorithms which are intended to perform the same functionality may differ in terms of their complexity.
+
+
+When n is arbitrarily big, growth of functions highly depends on the dominant term in the function:
+ n+5
+ n+1000000
+ n2+n+5
+ n2+1000000n+5
+ 2n2 + n3
+ n + log n + n log n
+ n + (log n)5 + n log n
+ 2n + n2
+ 2n + n200
