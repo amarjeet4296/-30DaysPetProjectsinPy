@@ -17,7 +17,6 @@ Theoretical analysis of algorithms generally includes estimation of their comple
 
 ![alt text](https://i.stack.imgur.com/ZEmZ6.png)
 
-
 When n is arbitrarily big, growth of functions highly depends on the dominant term in the function:
 - n+5 - O(n)
 
@@ -36,6 +35,8 @@ When n is arbitrarily big, growth of functions highly depends on the dominant te
 - 2^n + n^2 - O(2^n)
 
 - 2^n + n^200 - O(2^n)
+
+![alt text](https://i.stack.imgur.com/ceoAc.png)
 
 ## Example
 
