@@ -17,12 +17,20 @@ Theoretical analysis of algorithms generally includes estimation of their comple
 
 
 When n is arbitrarily big, growth of functions highly depends on the dominant term in the function:
- n+5
- n+1000000
- n2+n+5
- n2+1000000n+5
- 2n2 + n3
- n + log n + n log n
- n + (log n)5 + n log n
- 2n + n2
- 2n + n200
+- n+5
+
+- n+1000000
+
+- n2+n+5
+
+- n2+1000000n+5
+
+- 2n2 + n3
+
+- n + log n + n log n
+
+- n + (log n)5 + n log n
+
+- 2n + n2
+
+- 2n + n200
