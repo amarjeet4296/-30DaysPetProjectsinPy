@@ -37,13 +37,9 @@ When n is arbitrarily big, growth of functions highly depends on the dominant te
 
 ## Example
 
-def max(list):
-
- max = list[0] 
- 
- for i in range(len(list)): 
- 
- if max < list[i]: max = list[i] 
- 
- return max
+def max(list):<br />
+max = list[0] <br />
+ for i in range(len(list)):<br />
+ if max < list[i]: max = list[i]<br />
+ return max<br />
 
