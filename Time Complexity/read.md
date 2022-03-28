@@ -55,3 +55,8 @@ Count the number of comparisons:<br />
 - Exactly 2n + 1 comparisons are made.<br />
 - Consider the dominant term (as well as ignoring the coefficient)<br />
 - Hence, the time complexity of the max algorithm is O(n).<br />
+
+Future reference:
+
+[Code-Academy](https://www.codecademy.com/learn/asymptotic-notation-and-big-o-js/modules/asymptotic-notation-js/cheatsheet)
+[RuntimeAnalysisPracticeProblems](https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci241_20s/lectures/L08/runtime_practice.pdf)
