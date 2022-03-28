@@ -58,5 +58,6 @@ Count the number of comparisons:<br />
 
 Future reference:
 
-[Code-Academy](https://www.codecademy.com/learn/asymptotic-notation-and-big-o-js/modules/asymptotic-notation-js/cheatsheet)
-[RuntimeAnalysisPracticeProblems](https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci241_20s/lectures/L08/runtime_practice.pdf)
+[Code-Academy](https://www.codecademy.com/learn/asymptotic-notation-and-big-o-js/modules/asymptotic-notation-js/cheatsheet)<br />
+[RuntimeAnalysisPracticeProblems](https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci241_20s/lectures/L08/runtime_practice.pdf)<br />
+[Big O Notation and Time Complexity – Easily Explained](https://www.happycoders.eu/algorithms/big-o-notation-time-complexity/)<br />
